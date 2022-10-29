@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sora
 - 👀 I’m interested in eveything ...
 - 🌱 I’m currently learning ... Now I study for html/css/bootstrap/scss
-- 📫 How to reach me ? ...maby we can be a friend ? or maby you will to be my code teacher ?
+- 📫 reach me ? ...maby we can be a friend ? or maby you will to be my code teacher ?
 
 <!---
 MoritaSora/MoritaSora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
