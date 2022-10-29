@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sora
 - 👀 I’m interested in eveything ...
-- 🌱 I’m currently learning ... Now I study for html/Css/Bootstrap/Scss
+- 🌱 I’m currently learning ... Now I study for html/css/bootstrap/scss
 - 📫 How to reach me ? ...maby we can be a friend ? or maby you will to be my code teacher ?
 
 <!---
